@@ -35,7 +35,7 @@ Este projeto consiste em uma API REST de um Comércio Eletrônico, onde é geren
 
 ## Aprendizados
 
-Neste projeto foi possível aprender sobre Bean Validation, usado para fazer validações dos dados de entrada da API. O Spring Security, usado para permitir a autenticação dos usuários, além de gerenciar a autorização para o uso das rotas da API pelo usuário. Por fim, foi possível aprender mais sobre a criação e utilização de exceções customizadas.
+Neste projeto foi possível aprender sobre Bean Validation, usado para fazer validações dos dados de entrada da API, sobre o Spring Security, usado para permitir a autenticação dos usuários, além de gerenciar a autorização para o uso das rotas da API pelo usuário. E, por fim, foi possível aprender mais sobre a criação e utilização de exceções customizadas.
 
 
 ## Rodando localmente
