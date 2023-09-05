@@ -9,7 +9,7 @@
 ## Sobre o projeto
 O projeto DSCommerce é um projeto desenvolvido durante o Curso **Java Spring Professional**, ministrado pelo Professor [Nelio Alves](https://github.com/acenelio) da [DevSuperior](https://devsuperior.com.br).
 
-Este projeto consiste em uma API REST de um Comércio Eletrônico, onde é gerenciar Produtos, Pedidos e Clientes.
+Este projeto consiste em uma API REST de um Comércio Eletrônico, onde é possível gerenciar Produtos, Pedidos e Clientes.
 
 ## Modelo Conceitual
 ![Modelo de domínio DSCommerce](https://github.com/hakkinenT/assets/blob/master/java-spring-projects/dscommerce/dscommerce.png)
