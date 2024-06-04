@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 public class OpenApiConfig {
 
     @Bean
-    public OpenAPI dsmovieAPI() {
+    public OpenAPI dscommerceAPI() {
         return new OpenAPI()
                 .info(new Info()
                         .title("DSCommerce API")
